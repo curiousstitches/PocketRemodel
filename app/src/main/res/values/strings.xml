@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pocket Remodel</string>
+    <string name="tap_to_speak">Hold to talk to your room</string>
+    <string name="listening">Listening…</string>
+    <string name="thinking">Designing…</string>
+    <string name="scan_room">Move your phone slowly to scan the room</string>
+    <string name="save_design">Save</string>
+    <string name="load_design">Load</string>
+    <string name="camera_permission_rationale">Pocket Remodel needs the camera to see your room.</string>
+    <string name="mic_permission_rationale">Pocket Remodel needs the microphone so you can talk to your room.</string>
+</resources>

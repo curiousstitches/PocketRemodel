@@ -1,0 +1,11 @@
+# =============================================================================
+#  RENAME THIS FILE TO  local.properties   (delete the ".example" part)
+#  This file is your private vault. It is NEVER uploaded or shared (git ignores it).
+# =============================================================================
+
+# 1) Point this at your Android SDK (Android Studio fills it in automatically).
+# sdk.dir=C\:\\Users\\YOU\\AppData\\Local\\Android\\Sdk
+
+# 2) Paste your OpenRouter key here. Get one free at https://openrouter.ai/keys
+#    It looks like:  sk-or-v1-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+OPENROUTER_API_KEY=PASTE_YOUR_OPENROUTER_KEY_HERE
